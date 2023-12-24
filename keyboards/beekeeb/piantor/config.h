@@ -13,3 +13,6 @@
 
 // When USB_VBUS_PIN is not defined, SPLIT_USB_DETECT is used.
 #define USB_VBUS_PIN GP24 // for Raspberry Pi Pico
+
+// Define tapping toggle
+#define TAPPING_TOGGLE 2
